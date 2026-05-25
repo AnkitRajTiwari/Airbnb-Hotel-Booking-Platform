@@ -229,3 +229,6 @@ Import collection from: `postman/AirBnb Clone.postman_collection.json`
 - ✅ Security implementation (JWT + Spring Security)
 - ✅ Payment integration (Stripe)
 - ✅ Clean architecture & production-ready patterns
+
+### ER Diagram:
+<img src="https://raw.githubusercontent.com/AnkitRajTiwari/Airbnb-Hotel-Booking-Platform/master/LearningAssets/6.png" width="800"/>
