@@ -231,6 +231,4 @@ Import collection from: `postman/AirBnb Clone.postman_collection.json`
 - ✅ Clean architecture & production-ready patterns
 
 ### ER Diagram:
-<p align="center">
-  <img src="./LearningAssets/6.png" width="900"/>
-</p>
+<img src="https://github.com/AnkitRajTiwari/Airbnb-Hotel-Booking-Platform/blob/master/LearningAssests/6.png?raw=true" width="800"/>
